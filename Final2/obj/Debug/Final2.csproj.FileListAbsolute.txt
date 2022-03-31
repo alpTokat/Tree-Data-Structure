@@ -1,0 +1,10 @@
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\bin\Debug\Final2.exe.config
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\bin\Debug\Final2.exe
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\bin\Debug\Final2.pdb
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.csprojAssemblyReference.cache
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.Form1.resources
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.Properties.Resources.resources
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.csproj.GenerateResource.cache
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.csproj.CoreCompileInputs.cache
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.exe
+C:\Users\ALP TOKAT\source\repos\Final2\Final2\obj\Debug\Final2.pdb
